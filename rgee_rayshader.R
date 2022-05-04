@@ -1,4 +1,4 @@
-#' @autor Antony Barja :3 
+#' @author Antony Barja :3 
 # Requeriments
 library(rgee)
 library(rayshader)
